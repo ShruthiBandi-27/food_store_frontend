@@ -1,0 +1,32 @@
+.cout_container {
+    margin-top: 1rem;
+    display: flex;
+    margin: 0 0 6rem 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .cout_content {
+    width: 35rem;
+    margin: 0 3rem 0 0;
+  }
+  
+  .cout_content,
+  .cout_inputs {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .cout_inputs {
+    width: 100%;
+  }
+  
+  .cout_buttons_container {
+    flex-basis: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .cout_buttons {
+    margin: 2rem;
+    width: 35rem;
+  }

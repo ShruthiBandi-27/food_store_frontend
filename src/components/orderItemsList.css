@@ -1,0 +1,26 @@
+.order_table {
+    width: 100%;
+    border: 1px solid #eeeeee;
+    margin-top: 1rem;
+    border-radius: 5px;
+    padding: 0.order_5rem 1rem;
+  }
+  
+  .order_table td {
+    height: 3rem;
+  }
+  .order_table td img {
+    width: 3rem;
+    height: 3rem;
+    object-fit: cover;
+    border-radius: 100rem;
+  }
+  
+  .order_table h3 {
+    margin-top: 0.order_5rem;
+    margin-left: 0.order_3rem;
+    color: grey;
+  }
+  .order_table a:hover {
+    opacity: 0.order_9;
+  }

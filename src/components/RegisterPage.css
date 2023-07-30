@@ -1,0 +1,23 @@
+.register_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 3rem;
+  }
+  
+  .register_details {
+    width: 25rem;
+  }
+  
+  .register_details form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
